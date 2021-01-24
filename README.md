@@ -28,7 +28,17 @@ some stuff about me
 <!-- BLOG-POST-LIST:END --> 
 
 
-### Github Stats
+### 💻 Check out these Repos
+
+#### 🐍 Python
+
+[![Extra Life Donation Tracker](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=ELDonationTracker&theme=dark)](http://djotaku.github.io/ELDonationTracker/)
+
+#### 🎮 Unity
+
+#### 🚀 Misc
+
+### 🎲 Github Stats
 
 ![djotaku's github stats](https://github-readme-stats.vercel.app/api?username=djotaku&show_icons=true&theme=dark)
 ![Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djotaku&theme=dark&langs_count=3)
