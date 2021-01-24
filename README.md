@@ -23,3 +23,7 @@ some stuff about me
 
 <!-- BLOG-POST-LIST:END --> 
 
+
+### Github Stats
+
+![djotaku's github stats](https://github-readme-stats.vercel.app/api?username=djotaku&show_icons=true)
