@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-some stuff about me
+I'm a Pythonista (🐍) who creates programs and scripts to solve problems in my life. I'm also dabbling in video game development. My ultimate achievement is the ELDonationTracker below, which is a utility for folks raising money via the Extra Life charity.
 
 ### ✍ Latest Blog Posts
 
@@ -33,10 +33,27 @@ some stuff about me
 #### 🐍 Python
 
 [![Extra Life Donation Tracker](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=ELDonationTracker&theme=dark)](http://djotaku.github.io/ELDonationTracker/)
+[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Snap-in-Time&theme=dark)](https://github.com/djotaku/Snap-in-Time)
+[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=amortization&theme=dark)](https://github.com/djotaku/amortization)
+[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=starwarsspoilergenerator&theme=dark)](https://github.com/djotaku/starwarsspoilergenerator)
+[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=photo_stats&theme=dark)](https://github.com/djotaku/photo_stats)
+[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=raspi_garage_alert&theme=dark)](https://github.com/djotaku/raspi_garage_alert)
+
 
 #### 🎮 Unity
 
+[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Eric-s-Comet-Competition&theme=dark)](https://github.com/djotaku/Eric-s-Comet-Competition)
+[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=RealTimeStrategy_2&theme=dark)](https://github.com/djotaku/RealTimeStrategy_2)
+[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Tilevania&theme=dark)](https://github.com/djotaku/Tilevania)
+[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Glitch-Garden&theme=dark)](https://github.com/djotaku/Glitch-Garden)
+[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=laserdefender&theme=dark)](https://github.com/djotaku/laserdefender)
+
+
+
 #### 🚀 Misc
+
+[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=adventofcode&theme=dark)](https://github.com/djotaku/adventofcode)
+[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Atmel-Web-Server&theme=dark)](https://github.com/djotaku/Atmel-Web-Server)
 
 ### 🎲 Github Stats
 
