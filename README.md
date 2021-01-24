@@ -31,4 +31,4 @@ some stuff about me
 ### Github Stats
 
 ![djotaku's github stats](https://github-readme-stats.vercel.app/api?username=djotaku&show_icons=true&theme=dark)
-![Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djotaku)
+![Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djotaku&theme=dark)
