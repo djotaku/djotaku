@@ -49,7 +49,10 @@ I'm a Pythonista (🐍) who creates programs and scripts to solve problems in my
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Glitch-Garden&theme=dark)](https://github.com/djotaku/Glitch-Garden)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=laserdefender&theme=dark)](https://github.com/djotaku/laserdefender)
 
-
+#### 🔌 Electronics
+[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=qtpy_streamdeck&theme=dark)](https://github.com/djotaku/qtpy_streamdeck)
+[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=scratch_qtpy_circuitpython_piano&theme=dark)](https://github.com/djotaku/scratch_qtpy_circuitpython_piano)
+[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=BBQThermostat&theme=dark)](https://github.com/djotaku/BBQThermostat)
 
 #### 🚀 Misc
 
