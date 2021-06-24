@@ -20,11 +20,11 @@ I'm a Pythonista (🐍) who creates programs and scripts to solve problems in my
 ### ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Django vs Flask vs FastAPI](https://www.ericsbinaryworld.com/2021/06/23/django-vs-flask-vs-fastapi/)
 - [Programming Update for May 2021](https://www.ericsbinaryworld.com/2021/06/06/programming-update-for-may-2021/)
 - [Programming Update for April 2021](https://www.ericsbinaryworld.com/2021/05/03/programming-update-for-april-2021/)
 - [Mozilla’s Legacy](https://www.ericsbinaryworld.com/2021/04/20/mozillas-legacy/)
 - [Programming Projects: March 2021](https://www.ericsbinaryworld.com/2021/04/04/programming-projects-march-2021/)
-- [My Extra Life Donation Tracker reaches v6.0 (feature complete)](https://www.ericsbinaryworld.com/2021/03/14/my-extra-life-donation-tracker-reaches-v6-0-feature-complete/)
 <!-- BLOG-POST-LIST:END --> 
 
 
