@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Pythonista (🐍) who creates programs and scripts to solve problems in my life. I'm also dabbling in video game development. My ultimate achievement is the ELDonationTracker below, which is a utility for folks raising money via the Extra Life charity.
+I'm a Pythonista (🐍) who creates programs and scripts to solve problems in my life. I'm also dabbling in video game development. My ultimate achievement is the ELDonationTracker below, which is a utility for folks raising money via the Extra Life charity. I also participate in [Advent of Code](https://www.adventofcode.com).
 
 ### ✍ Latest Blog Posts
 
