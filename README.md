@@ -20,11 +20,11 @@ I'm a Pythonista (🐍) who creates programs and scripts to solve problems in my
 ### ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Programming Update May-July 2022](https://www.ericsbinaryworld.com/2022/08/03/programming-update-may-july-2022/)
 - [Programming Update: March/April](https://www.ericsbinaryworld.com/2022/05/06/programming-update-march-april/)
 - [Programming Update: January/February 2022](https://www.ericsbinaryworld.com/2022/03/05/programming-update-january-february-2022/)
 - [Best thing I’ve ever learned from @PythonBytes](https://www.ericsbinaryworld.com/2022/01/31/best-thing-ive-ever-learned-from-pythonbytes/)
 - [Software I used for Programming in 2021](https://www.ericsbinaryworld.com/2022/01/27/software-i-used-for-programming-in-2021/)
-- [My Programming Projects and Progress in 2021](https://www.ericsbinaryworld.com/2022/01/26/my-programming-projects-and-progress-in-2021/)
 <!-- BLOG-POST-LIST:END --> 
 
 
