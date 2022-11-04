@@ -20,11 +20,11 @@ I'm a Pythonista (🐍) who creates programs and scripts to solve problems in my
 ### ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Programming Update: October 2022](https://www.ericsbinaryworld.com/2022/11/03/programming-update-october-2022/)
 - [Programming Update: Sept 2022](https://www.ericsbinaryworld.com/2022/10/02/programming-update-sept-2022/)
 - [Programming Update: Aug](https://www.ericsbinaryworld.com/2022/08/31/programming-update-aug/)
 - [Course Review: Modern APIs with FastAPI, MongoDB and Python](https://www.ericsbinaryworld.com/2022/08/23/course-review-modern-apis-with-fastapi-mongodb-and-python/)
 - [Programming Update May-July 2022](https://www.ericsbinaryworld.com/2022/08/03/programming-update-may-july-2022/)
-- [Programming Update: March/April](https://www.ericsbinaryworld.com/2022/05/06/programming-update-march-april/)
 <!-- BLOG-POST-LIST:END --> 
 
 
