@@ -64,3 +64,5 @@ I'm a Pythonista (🐍) who creates programs and scripts to solve problems in my
 
 ![djotaku's github stats](https://github-readme-stats.vercel.app/api?username=djotaku&show_icons=true&theme=dark)
 ![Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djotaku&theme=dark&langs_count=3)
+
+<a rel="me" href="https://mastodon.social/@djotaku">Mastodon</a>
