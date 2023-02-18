@@ -40,6 +40,8 @@ I'm a Pythonista (🐍) who creates programs and scripts to solve problems in my
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=photo_stats&theme=dark)](https://github.com/djotaku/photo_stats)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=raspi_garage_alert&theme=dark)](https://github.com/djotaku/raspi_garage_alert)
 
+#### 🐹 Go
+[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=dreamhost_dns_go&theme=dark)]
 
 #### 🎮 Unity
 
