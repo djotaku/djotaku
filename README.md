@@ -33,7 +33,7 @@ I'm a Pythonista (🐍) who creates programs and scripts to solve problems in my
 #### 🐍 Python
 
 [![Extra Life Donation Tracker](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=ELDonationTracker&theme=dark)](http://djotaku.github.io/ELDonationTracker/)
-[![Donor Drive Python](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=&DonorDrivePythontheme=dark)](https://github.com/djotaku/DonorDrivePython)
+[![Donor Drive Python](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=DonorDrivePythontheme=dark)](https://github.com/djotaku/DonorDrivePython)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Snap-in-Time&theme=dark)](https://github.com/djotaku/Snap-in-Time)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Civilization_VI_Play_By_Cloud_Webhook_with_FastAPI&theme=dark)](https://github.com/djotaku/Civilization_VI_Play_By_Cloud_Webhook_with_FastAPI)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=amortization&theme=dark)](https://github.com/djotaku/amortization)
