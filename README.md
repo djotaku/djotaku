@@ -33,15 +33,18 @@ I'm a Pythonista (🐍) who creates programs and scripts to solve problems in my
 #### 🐍 Python
 
 [![Extra Life Donation Tracker](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=ELDonationTracker&theme=dark)](http://djotaku.github.io/ELDonationTracker/)
+[![Donor Drive Python](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=&DonorDrivePythontheme=dark)](https://github.com/djotaku/DonorDrivePython)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Snap-in-Time&theme=dark)](https://github.com/djotaku/Snap-in-Time)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Civilization_VI_Play_By_Cloud_Webhook_with_FastAPI&theme=dark)](https://github.com/djotaku/Civilization_VI_Play_By_Cloud_Webhook_with_FastAPI)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=amortization&theme=dark)](https://github.com/djotaku/amortization)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=starwarsspoilergenerator&theme=dark)](https://github.com/djotaku/starwarsspoilergenerator)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=photo_stats&theme=dark)](https://github.com/djotaku/photo_stats)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=raspi_garage_alert&theme=dark)](https://github.com/djotaku/raspi_garage_alert)
+[![lastfm-mastodon](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=lastfm-mastodon&theme=dark)](https://github.com/djotaku/lastfm-mastodon)
 
 #### 🐹 Go
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=dreamhost_dns_go&theme=dark)](https://github.com/djotaku/dreamhost_dns_go)
+[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=dreamhostapi&theme=dark)](https://github.com/djotaku/dreamhostapi)
 
 #### 🎮 Unity
 
