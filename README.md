@@ -20,11 +20,11 @@ I'm a Pythonista (🐍) and sometimes Gopher (🐹) who creates programs and scr
 ### ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Political Reading of If You Give a Mouse a Cookie](https://www.ericsbinaryworld.com/2024/09/12/the-political-reading-of-if-you-give-a-mouse-a-cookie/)
 - [Programming Jan-April 2024](https://www.ericsbinaryworld.com/2024/04/28/programming-jan-april-2024/)
 - [A few thoughts on Programming languages](https://www.ericsbinaryworld.com/2024/04/26/a-few-thoughts-on-programming-languages/)
 - [Review: If Hemingway Wrote Javascript](https://www.ericsbinaryworld.com/2024/04/25/review-if-hemingway-wrote-javascript/)
 - [Programs used for Programming in 2023](https://www.ericsbinaryworld.com/2024/03/01/programs-used-for-programming-in-2023/)
-- [My 2023 Programming Progress](https://www.ericsbinaryworld.com/2024/01/05/my-2023-programming-progress/)
 <!-- BLOG-POST-LIST:END --> 
 
 
