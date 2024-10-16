@@ -21,10 +21,10 @@ I'm a Pythonista (🐍) and sometimes Gopher (🐹) who creates programs and scr
 
 <!-- BLOG-POST-LIST:START -->
 - [The Political Reading of If You Give a Mouse a Cookie](https://www.ericsbinaryworld.com/2024/09/12/the-political-reading-of-if-you-give-a-mouse-a-cookie/)
-- [Programming Jan-April 2024](https://www.ericsbinaryworld.com/2024/04/28/programming-jan-april-2024/)
-- [A few thoughts on Programming languages](https://www.ericsbinaryworld.com/2024/04/26/a-few-thoughts-on-programming-languages/)
 - [Review: If Hemingway Wrote Javascript](https://www.ericsbinaryworld.com/2024/04/25/review-if-hemingway-wrote-javascript/)
-- [Programs used for Programming in 2023](https://www.ericsbinaryworld.com/2024/03/01/programs-used-for-programming-in-2023/)
+- [How Go Helped Save Healthcare.gov!](https://www.ericsbinaryworld.com/2023/03/10/how-go-helped-save-healthcare-gov/)
+- [Programming Update: Sept 2022](https://www.ericsbinaryworld.com/2022/10/02/programming-update-sept-2022/)
+- [Software I used for Programming in 2020](https://www.ericsbinaryworld.com/2021/01/13/software-i-used-for-programming-in-2020/)
 <!-- BLOG-POST-LIST:END --> 
 
 
