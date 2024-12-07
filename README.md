@@ -65,8 +65,6 @@ I'm a Pythonista (🐍) and sometimes Gopher (🐹) who creates programs and scr
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=CircuitPythonSmokerThermoStat&theme=dark)](https://github.com/djotaku/CircuitPythonSmokerThermoStat)
 
 #### 🚀 Misc
-
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=adventofcode&theme=dark)](https://github.com/djotaku/adventofcode)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Atmel-Web-Server&theme=dark)](https://github.com/djotaku/Atmel-Web-Server)
 
 ### 🎲 Github Stats
