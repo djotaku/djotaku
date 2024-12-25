@@ -20,11 +20,11 @@ I'm a Pythonista (🐍) and sometimes Gopher (🐹) who creates programs and scr
 ### ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2024 Programming EOY](https://www.ericsbinaryworld.com/2024/12/25/2024-programming-eoy/)
 - [Advent 2024 Day 04](https://www.ericsbinaryworld.com/2024/12/04/advent-2024-day-04/)
 - [Advent 2024 Day 03](https://www.ericsbinaryworld.com/2024/12/03/advent-2024-day-03/)
 - [Advent 2024 Day 02](https://www.ericsbinaryworld.com/2024/12/02/advent-2024-day-02/)
 - [Talk Python Bits](https://www.ericsbinaryworld.com/2024/12/01/talk-python-bits/)
-- [Advent 2024 Day 01](https://www.ericsbinaryworld.com/2024/12/01/advent-2024-day-01/)
 <!-- BLOG-POST-LIST:END --> 
 
 
