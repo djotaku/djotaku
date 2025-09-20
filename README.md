@@ -46,7 +46,7 @@ I'm a Pythonista (🐍) and sometimes Gopher (🐹) who creates programs and scr
 #### 🐹 Go
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=dreamhost_dns_go&theme=dark)](https://github.com/djotaku/dreamhost_dns_go)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=dreamhostapi&theme=dark)](https://github.com/djotaku/dreamhostapi)
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=lastfmmastodon&theme=dark)](https://github.com/djotaku/lastfmmastodon)
+[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=lastfmSocial&theme=dark)](https://github.com/djotaku/lastfmSocial)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=nasa_bg_dl&theme=dark)](https://github.com/djotaku/nasa_bg_dl)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=spacetraders_go&theme=dark)](https://github.com/djotaku/spacetraders_go)
 
