@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Pythonista (🐍) and sometimes Gopher (🐹) who creates programs and scripts to solve problems in my life. (I have also dabbled in video game development) My ultimate achievement is the ELDonationTracker below, which is a utility for folks raising money via the Extra Life charity. I used to participate in Advent of Code, but no longer do so. (I also had to remove the repo because it had my puzzle inputs)
+I'm a Pythonista (🐍) and sometimes Gopher (🐹) who creates programs and scripts to solve problems in my life. (I have also dabbled in video game development) My ultimate achievement is the ELDonationTracker below, which is a utility for folks raising money via the Extra Life charity. I used to participate in Advent of Code, but no longer do so. (I also had to remove the repo because it had my puzzle inputs) I've been on a bit of a development hiatus while working on other hobbies.
 
 ### ✍ Latest Blog Posts
 
