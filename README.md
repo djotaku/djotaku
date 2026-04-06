@@ -29,6 +29,10 @@ Since 2024 my pace of development has lowered a bit as I focus on other hobbies.
 - [Advent 2024 Day 02](https://www.ericsbinaryworld.com/2024/12/02/advent-2024-day-02/)
 <!-- BLOG-POST-LIST:END --> 
 
+### 🎲 Github Stats
+
+![Stats](./profile/stats.svg)
+![Most Used Programming Languages](./profile/top-langs.svg)
 
 ### 💻 Check out these Repos
 
@@ -68,8 +72,3 @@ Since 2024 my pace of development has lowered a bit as I focus on other hobbies.
 
 #### 🚀 Misc
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Atmel-Web-Server&theme=dark)](https://github.com/djotaku/Atmel-Web-Server)
-
-### 🎲 Github Stats
-
-![djotaku's github stats](https://github-readme-stats.vercel.app/api?username=djotaku&show_icons=true&theme=dark)
-![Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djotaku&theme=dark&langs_count=3)
