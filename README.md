@@ -34,7 +34,7 @@ Since 2024 my pace of development has lowered a bit as I focus on other hobbies.
 
 #### 🐍 Python
 
-[![Extra Life Donation Tracker](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=ELDonationTracker&theme=dark)](http://djotaku.github.io/ELDonationTracker/)
+[![Extra Life Donation Tracker](./profile/?username=djotaku&repo=ELDonationTracker&theme=dark)](http://djotaku.github.io/ELDonationTracker/)
 [![Donor Drive Python](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=DonorDrivePython&theme=dark)](https://github.com/djotaku/DonorDrivePython)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Snap-in-Time&theme=dark)](https://github.com/djotaku/Snap-in-Time)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Civilization_VI_Play_By_Cloud_Webhook_with_FastAPI&theme=dark)](https://github.com/djotaku/Civilization_VI_Play_By_Cloud_Webhook_with_FastAPI)
