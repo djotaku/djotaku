@@ -42,11 +42,8 @@ Since 2024 my pace of development has lowered a bit as I focus on other hobbies.
 [![Donor Drive Python](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=DonorDrivePython&theme=dark)](https://github.com/djotaku/DonorDrivePython)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Snap-in-Time&theme=dark)](https://github.com/djotaku/Snap-in-Time)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Civilization_VI_Play_By_Cloud_Webhook_with_FastAPI&theme=dark)](https://github.com/djotaku/Civilization_VI_Play_By_Cloud_Webhook_with_FastAPI)
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=amortization&theme=dark)](https://github.com/djotaku/amortization)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=starwarsspoilergenerator&theme=dark)](https://github.com/djotaku/starwarsspoilergenerator)
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=photo_stats&theme=dark)](https://github.com/djotaku/photo_stats)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=raspi_garage_alert&theme=dark)](https://github.com/djotaku/raspi_garage_alert)
-[![lastfm-mastodon](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=lastfm-mastodon&theme=dark)](https://github.com/djotaku/lastfm-mastodon)
 [![taskwarrior_web](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=taskwarrior_web&theme=dark)](https://github.com/djotaku/taskwarrior_web)
 
 #### 🐹 Go
@@ -54,15 +51,6 @@ Since 2024 my pace of development has lowered a bit as I focus on other hobbies.
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=dreamhostapi&theme=dark)](https://github.com/djotaku/dreamhostapi)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=lastfmSocials&theme=dark)](https://github.com/djotaku/lastfmSocials)
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=nasa_bg_dl&theme=dark)](https://github.com/djotaku/nasa_bg_dl)
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=spacetraders_go&theme=dark)](https://github.com/djotaku/spacetraders_go)
-
-#### 🎮 Unity
-
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Eric-s-Comet-Competition&theme=dark)](https://github.com/djotaku/Eric-s-Comet-Competition)
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=RealTimeStrategy_2&theme=dark)](https://github.com/djotaku/RealTimeStrategy_2)
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Tilevania&theme=dark)](https://github.com/djotaku/Tilevania)
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Glitch-Garden&theme=dark)](https://github.com/djotaku/Glitch-Garden)
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=laserdefender&theme=dark)](https://github.com/djotaku/laserdefender)
 
 #### 🔌 Electronics
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=qtpy_streamdeck&theme=dark)](https://github.com/djotaku/qtpy_streamdeck)
