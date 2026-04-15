@@ -22,11 +22,11 @@ Since 2024 my pace of development has lowered a bit as I focus on other hobbies.
 ### ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Review: Learning the Vi and Vim Editors](https://www.ericsbinaryworld.com/2026/04/14/review-learning-the-vi-and-vim-editors/)
 - [My Year in Programming: 2025](https://www.ericsbinaryworld.com/2026/01/04/my-year-in-programming-2025/)
 - [2024 Programming EOY](https://www.ericsbinaryworld.com/2024/12/25/2024-programming-eoy/)
 - [Advent 2024 Day 04](https://www.ericsbinaryworld.com/2024/12/04/advent-2024-day-04/)
 - [Advent 2024 Day 03](https://www.ericsbinaryworld.com/2024/12/03/advent-2024-day-03/)
-- [Advent 2024 Day 02](https://www.ericsbinaryworld.com/2024/12/02/advent-2024-day-02/)
 <!-- BLOG-POST-LIST:END --> 
 
 ### 🎲 Github Stats
