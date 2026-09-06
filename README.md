@@ -42,16 +42,16 @@ Since 2024 my pace of development has lowered a bit as I focus on other hobbies.
 - [taskwarrior_web](https://github.com/djotaku/taskwarrior_web)
 
 #### 🐹 Go
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=dreamhost_dns_go&theme=dark)](https://github.com/djotaku/dreamhost_dns_go)
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=dreamhostapi&theme=dark)](https://github.com/djotaku/dreamhostapi)
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=lastfmSocials&theme=dark)](https://github.com/djotaku/lastfmSocials)
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=nasa_bg_dl&theme=dark)](https://github.com/djotaku/nasa_bg_dl)
+- [Dreamhost DNS](https://github.com/djotaku/dreamhost_dns_go)
+- [Dreamhost API](https://github.com/djotaku/dreamhostapi)
+- [Lastfm Socials](https://github.com/djotaku/lastfmSocials)
+- [NASA BG DL](https://github.com/djotaku/nasa_bg_dl)
 
 #### 🔌 Electronics
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=qtpy_streamdeck&theme=dark)](https://github.com/djotaku/qtpy_streamdeck)
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=scratch_qtpy_circuitpython_piano&theme=dark)](https://github.com/djotaku/scratch_qtpy_circuitpython_piano)
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=BBQThermostat&theme=dark)](https://github.com/djotaku/BBQThermostat)
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=CircuitPythonSmokerThermoStat&theme=dark)](https://github.com/djotaku/CircuitPythonSmokerThermoStat)
+- [QTPy Streamdeck](https://github.com/djotaku/qtpy_streamdeck)
+- [Scratch QTPy Circuit Python Piano](https://github.com/djotaku/scratch_qtpy_circuitpython_piano)
+- [BBQ Thermostat](https://github.com/djotaku/BBQThermostat)
+- [Circuit Python Smoker Thermostat](https://github.com/djotaku/CircuitPythonSmokerThermoStat)
 
 #### 🚀 Misc
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Atmel-Web-Server&theme=dark)](https://github.com/djotaku/Atmel-Web-Server)
+- [Atmel Web Server](https://github.com/djotaku/Atmel-Web-Server)
