@@ -29,22 +29,17 @@ Since 2024 my pace of development has lowered a bit as I focus on other hobbies.
 - [Advent 2024 Day 03](https://www.ericsbinaryworld.com/2024/12/03/advent-2024-day-03/)
 <!-- BLOG-POST-LIST:END --> 
 
-### 🎲 Github Stats
-
-![Stats](./profile/stats.svg)
-![Most Used Programming Languages](./profile/top-langs.svg)
-
 ### 💻 Check out these Repos
 
 #### 🐍 Python
 
-[![Extra Life Donation Tracker](./profile/pin-el-donation-trackerreadme-tools-github-readme-stats.svg)](http://djotaku.github.io/ELDonationTracker/)
-[![Donor Drive Python](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=DonorDrivePython&theme=dark)](https://github.com/djotaku/DonorDrivePython)
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Snap-in-Time&theme=dark)](https://github.com/djotaku/Snap-in-Time)
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=Civilization_VI_Play_By_Cloud_Webhook_with_FastAPI&theme=dark)](https://github.com/djotaku/Civilization_VI_Play_By_Cloud_Webhook_with_FastAPI)
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=starwarsspoilergenerator&theme=dark)](https://github.com/djotaku/starwarsspoilergenerator)
-[![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=raspi_garage_alert&theme=dark)](https://github.com/djotaku/raspi_garage_alert)
-[![taskwarrior_web](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=taskwarrior_web&theme=dark)](https://github.com/djotaku/taskwarrior_web)
+- [Extra Life Donation Tracker](http://djotaku.github.io/ELDonationTracker/)
+- [Donor Drive Python](https://github.com/djotaku/DonorDrivePython)
+- [Snap-in-Time](https://github.com/djotaku/Snap-in-Time)
+- [Civ VI Play By Cloud](https://github.com/djotaku/Civilization_VI_Play_By_Cloud_Webhook_with_FastAPI)
+- [Star Wars Spoiler Generator](https://github.com/djotaku/starwarsspoilergenerator)
+- [Raspi Garage Alert](https://github.com/djotaku/raspi_garage_alert)
+- [taskwarrior_web](https://github.com/djotaku/taskwarrior_web)
 
 #### 🐹 Go
 [![these words don't matter](https://github-readme-stats.vercel.app/api/pin/?username=djotaku&repo=dreamhost_dns_go&theme=dark)](https://github.com/djotaku/dreamhost_dns_go)
