@@ -22,11 +22,11 @@ Since 2024 my pace of development has lowered a bit as I focus on other hobbies.
 ### ✍ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up My Own Forgejo Instance](https://www.ericsbinaryworld.com/2026/11/25/setting-up-my-own-forgejo-instance/)
 - [Thoughts About My First AI-Generated Project](https://www.ericsbinaryworld.com/2026/10/26/thoughts-about-my-first-ai-generated-project/)
 - [Local AI as Personal Stack Overflow](https://www.ericsbinaryworld.com/2026/10/25/local-ai-as-personal-stack-overflow/)
 - [AI Policy for My Github Repos](https://www.ericsbinaryworld.com/2026/09/16/ai-policy-for-my-github-repos/)
 - [Review: Learning the Vi and Vim Editors](https://www.ericsbinaryworld.com/2026/04/14/review-learning-the-vi-and-vim-editors/)
-- [My Year in Programming: 2025](https://www.ericsbinaryworld.com/2026/01/04/my-year-in-programming-2025/)
 <!-- BLOG-POST-LIST:END --> 
 
 ### 💻 Check out these Repos
